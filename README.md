@@ -42,5 +42,5 @@ O script para criação da tabela do exemplo encontra-se na pasta **Database**.
 
 ### Aqui está uma demonstração do projeto:
 
-<img width="800" height="612" alt="CRUD-AspNet-1-N-AdminLTE" src="https://github.com/user-attachments/assets/6e25872b-e8e5-4d25-a7e9-b71789770f4d" />
+<img width="1339" height="612" alt="CRUD-AspNet-1-N-AdminLTE" src="https://github.com/user-attachments/assets/5e51fc89-102f-4532-8472-ee729953bac1" />
 
